@@ -1,0 +1,8 @@
+{
+    "servo step":5,
+    "default v angle":0,
+    "default p angle":0,
+    "image width":416,
+    "image height":416,
+    "bias pixels":10
+}
